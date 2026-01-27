@@ -1,2 +1,2 @@
-Geçici olarak yaptığım web sitem 
+Geçici olarak yaptığım web sitesi
 https://emrahtusun.github.io/Emrah.Tusun/
